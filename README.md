@@ -182,7 +182,7 @@ docker compose up -d --build   # http://localhost:8010
 Docker. After that, every update is one command from your laptop:
 
 ```bash
-ssh ananthu@192.168.1.113 '~/file-convertor/deploy/deploy.sh'
+ssh user@ip '~/file-convertor/deploy/deploy.sh'
 ```
 
 ## Tests
